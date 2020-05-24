@@ -1,0 +1,12 @@
+Origin: 10Meisterbaelle's Jailbreak Tweaks
+Label: 10Meisterbaelle's Jailbreak Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The 10Meisterbaelle Jailbreak Repo. Compatible with Cydia and Sileo.
+
+SHA256:
+ 8a170c3b3a3f2ca46c010779062d864072f832026d8b99f0b15e3d1dc830ee99 1205 Packages.bz2
+ 110de2f016bed239b1879872d1bf1fc823753cd730af56da30f4bbe2139ea04e 1116 Packages.xz
