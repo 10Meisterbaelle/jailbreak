@@ -2,10 +2,11 @@
     "name": "10Meisterbaelle's Jailbreak Tweaks",
     "description": "The 10Meisterbaelle Jailbreak Repo.",
     "tint": "",
-    "cname": "10meisterbaelle.github.io/jailbreak/",
+    "cname": "10meisterbaelle.tk/jailbreak/",
     "maintainer": {
         "name": "10Meisterbaelle",
         "email": ""
     },
-    "automatic_git": "false"
+    "automatic_git": "false",
+    "footer": "10Meisterbaelle's Jailbreak Tweaks"
 }
